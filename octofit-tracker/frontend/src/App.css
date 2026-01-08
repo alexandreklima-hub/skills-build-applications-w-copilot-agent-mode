@@ -1,0 +1,30 @@
+/* Estilos personalizados para o Octofit Tracker App */
+body {
+  background-color: #f8f9fa;
+}
+
+.app-navbar {
+  margin-bottom: 2rem;
+}
+
+.app-card {
+  margin-bottom: 2rem;
+}
+
+.app-table th, .app-table td {
+  vertical-align: middle;
+}
+
+.app-heading {
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  color: #343a40;
+}
+
+.app-btn {
+  margin-right: 0.5rem;
+}
+
+.app-modal .modal-content {
+  border-radius: 0.5rem;
+}
